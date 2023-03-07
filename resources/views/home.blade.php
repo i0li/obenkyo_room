@@ -10,9 +10,6 @@
 <main class="py-4">
 
 <div class="container">
-    <!--ajaxテスト用ボタン-->
-    <button id="ajax-test-button">test</button>
-
     <div class="row">
         <div class="col-2"></div>
         <h1 class="col-8 display-4 text-center mt-4 mb-5">Rooms</h1>
